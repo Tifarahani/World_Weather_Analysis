@@ -12,9 +12,6 @@ In this project, a travel app for customers is built using weather data of 600+ 
 * Jupyter Notebook
 
 ## Deliverable 1:Retrieve Weather Data 
-### Figures
-
-A collection of figures made from the data are displayed below.  The data and figures can be found in the weather_data folder.
 
 #### Weather Figures by Latitude
 
