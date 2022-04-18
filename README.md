@@ -82,8 +82,8 @@ Vacation Search Sample Output
 * A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
 * Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature 
 for the filtered cities around the world.
-- A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
-- A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
+* A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
+* A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
 The program outputs the navigation map necessary to drive between the cities, and always ends in the same city that trip started in for ease of plane trips, car rentals, etc.  The program also outputs information on accommodations and weather for each of the cities in the recommended itinerary.
 Vacation Itinerary Navigation Map
 ![Vacation Itinerary Navigation Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
