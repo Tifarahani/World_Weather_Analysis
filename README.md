@@ -2,7 +2,7 @@
 Weather Analysis and building of a travel app for customers of 600+ cities around the world.
 
 ## Project Overview
-In this project, a travel app for customers is built using weather data of 600+ cities along with the data to recommend ideal hotels based on clients’ weather preferences.
+In this project, a travel app for customers is built using weather data of 600+ cities along with the data to recommend ideal hotels based on clients’ weather preferences.The analysis shows weather data including temperature, humidity, cloudiness, wind speed, etc, and performs regression analysis divided by southern and northern hemispheres as well as heat mapping the data onto a map. The analysis can be found in the WeatherPy.ipynb file.
 
 ## Tools
 * Python
