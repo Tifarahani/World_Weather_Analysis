@@ -70,60 +70,31 @@ Cloudiness
 Wind Speed
 ![Wind Speed](https://github.com/Tifarahani/World_Weather_Analysis/blob/main/weather_data/Fig16.png)
 ## Deliverable 2: Create a Customer Travel Destinations Map
-### Vacation Search
 
-The first program uses all of the data collected from openweathermap API to create a map of cities that shows the most popular accommodation, the city and country, and the current weather and temperature. The files, data and image can be found in the vacation_search folder.  Sample output is shown below. 
+* The Travel App allows customers to search for locations they want to travel based on their temperature preferences.  
 
 Vacation Search Sample Output
 ![Vacation Search Sample Output](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
 
-
 ## Deliverable 3: Create a Travel Itinerary Map
-### Vacation Itinerary
 
 In the second program, the user inputs the weather that they would like for their next vacation.  The program outputs a sample itinerary consisting of four cities that are all nearby and within the same country.  The output of the cities is randomized and will vary if the program is run several times.
-
+- A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
+- Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature 
+for the filtered cities around the world.
+- A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
+- A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
+- A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
 The program outputs the navigation map necessary to drive between the cities, and always ends in the same city that trip started in for ease of plane trips, car rentals, etc.  The program also outputs information on accommodations and weather for each of the cities in the recommended itinerary.
-
-This program along with sample images can be found in the vacation_itinerary folder.  Sample output is shown below.
-
 Vacation Itinerary Navigation Map
 ![Vacation Itinerary Navigation Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
 
 Vacation Itinerary Accommodation and Weather Map
 ![Vacation Itinerary Accommodation and Weather Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
 
-## Summary
-
-- The Travel App allows customers to search for locations they want to travel based on their temperature preferences. 
-
-- Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature 
-for the filtered cities around the world.
-
-
-![alt text](image/map_markers.png)
-
-
-- A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
-
-- A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
 
 
 
-![alt text](image/WeatherPy_vacation_map.png)
 
 
 
-- A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
-
-
-
-![alt text](image/WeatherPy_travel_map.png)
-
-
-
-- A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
-
-
-
-![alt text](image/WeatherPy_travel_map_markers.png)
