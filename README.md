@@ -19,7 +19,7 @@ A collection of figures made from the data are displayed below.  The data and fi
 #### Weather Figures by Latitude
 
 Latitude vs Temperature
-![Latitude vs Temperature](https://github.com/Tifarahani/World_Weather_Analysis/tree/main/weather_data)
+![Latitude vs Temperature](https://github.com/Tifarahani/World_Weather_Analysis/blob/main/weather_data/Fig1.png)
 
 Latitude vs Humidity
 ![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig2.png)
