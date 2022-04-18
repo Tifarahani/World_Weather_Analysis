@@ -70,7 +70,29 @@ Cloudiness
 Wind Speed
 ![Wind Speed](https://github.com/Tifarahani/World_Weather_Analysis/blob/main/weather_data/Fig16.png)
 ## Deliverable 2: Create a Customer Travel Destinations Map
+### Vacation Search
+
+The first program uses all of the data collected from openweathermap API to create a map of cities that shows the most popular accommodation, the city and country, and the current weather and temperature. The files, data and image can be found in the vacation_search folder.  Sample output is shown below. 
+
+Vacation Search Sample Output
+![Vacation Search Sample Output](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
+
+
 ## Deliverable 3: Create a Travel Itinerary Map
+### Vacation Itinerary
+
+In the second program, the user inputs the weather that they would like for their next vacation.  The program outputs a sample itinerary consisting of four cities that are all nearby and within the same country.  The output of the cities is randomized and will vary if the program is run several times.
+
+The program outputs the navigation map necessary to drive between the cities, and always ends in the same city that trip started in for ease of plane trips, car rentals, etc.  The program also outputs information on accommodations and weather for each of the cities in the recommended itinerary.
+
+This program along with sample images can be found in the vacation_itinerary folder.  Sample output is shown below.
+
+Vacation Itinerary Navigation Map
+![Vacation Itinerary Navigation Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
+
+Vacation Itinerary Accommodation and Weather Map
+![Vacation Itinerary Accommodation and Weather Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
+
 ## Summary
 
 - The Travel App allows customers to search for locations they want to travel based on their temperature preferences. 
