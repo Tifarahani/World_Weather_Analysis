@@ -72,18 +72,17 @@ Wind Speed
 ## Deliverable 2: Create a Customer Travel Destinations Map
 
 * The Travel App allows customers to search for locations they want to travel based on their temperature preferences.  
-
+* In the second program, the user inputs the weather that they would like for their next vacation.  The program outputs a sample itinerary consisting of four cities that are all nearby and within the same country.  The output of the cities is randomized and will vary if the program is run several times.
 Vacation Search Sample Output
+* A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
 ![Vacation Search Sample Output](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
 
 ## Deliverable 3: Create a Travel Itinerary Map
 
-In the second program, the user inputs the weather that they would like for their next vacation.  The program outputs a sample itinerary consisting of four cities that are all nearby and within the same country.  The output of the cities is randomized and will vary if the program is run several times.
-- A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
-- Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature 
+* A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
+* Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature 
 for the filtered cities around the world.
 - A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
-- A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
 - A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
 The program outputs the navigation map necessary to drive between the cities, and always ends in the same city that trip started in for ease of plane trips, car rentals, etc.  The program also outputs information on accommodations and weather for each of the cities in the recommended itinerary.
 Vacation Itinerary Navigation Map
