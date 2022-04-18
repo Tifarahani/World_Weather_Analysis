@@ -5,14 +5,14 @@ Weather Analysis and building of a travel app for customers of 600+ cities aroun
 In this project, a travel app for customers is built using weather data of 600+ cities along with the data to recommend ideal hotels based on clients’ weather preferences.
 
 ## Tools
-* Python,
+* Python
 * citipy
 * Pandas
 * Google Maps API, Google Places API, OpenWeatherMap API
 * Jupyter Notebook
 
-## Deliverable 1:
-## Deliverable 2:
+## Deliverable 1:Retrieve Weather Data 
+## Deliverable 2: Create a Customer Travel Destinations Map
 ## Deliverable 3: Create a Travel Itinerary Map
 ## Summary
 
